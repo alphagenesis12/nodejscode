@@ -3,12 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
- "scripts": {
-  "start": "node index.js", // Assuming your entry point is index.js
-  "build": "echo 'Nothing to build for a Node.js app!'", // Placeholder build script
-  // Other scripts if you have any
-},
-
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Nothing to build for a Node.js app!'" 
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
