@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+ "scripts": {
+  "start": "node index.js", // Assuming your entry point is index.js
+  "build": "echo 'Nothing to build for a Node.js app!'", // Placeholder build script
+  // Other scripts if you have any
+},
+
   "keywords": [],
   "author": "",
   "license": "ISC",
